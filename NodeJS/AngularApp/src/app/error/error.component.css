@@ -1,0 +1,20 @@
+.shrink {
+  border: 1px solid white;
+}
+
+.materialize-textarea {
+  color: white;
+}
+
+#nav-bar {
+  background-color: #25a297;
+
+}
+
+#errorsTable{
+  border-top: 1px solid white;
+}
+
+#test{
+  text-align: center;
+}
